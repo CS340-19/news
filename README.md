@@ -20,21 +20,14 @@ Simple rules:
 
 ## Objectives
 The course will provide basic software engineering approaches with a
-focus on intense practice.
+focus on intense practice. Upon successfull completion of this course 
+you will be able to:
 
-- Version control and issue tracking
-- Basic software project management
-- Build (cmake)
-- Test
-- Deploy to the cloud
-- Participate in open source projects
-
-## Expected Outcomes
-
-Upon completion, students will be able to
-work in teams, break work into iterations, write tests,
-deploy their software to the cloud, and participate in open source
-projects. 
+- Do version control and issue tracking
+- Paticipate in teams and do basic software project management
+- Do basic software testing
+- Deploy software to the cloud
+- Contribute to open source projects
 
 
 ## Course Description
