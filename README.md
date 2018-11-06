@@ -1,7 +1,7 @@
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** MK404  MWF  12:20PM-01:10PM (Min Kao 404) **
+* ** MK404  MWF  9:05AM-09:55AM (Min Kao 524) **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 * **TA:** TBD
 * **Need help?**
