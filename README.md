@@ -165,6 +165,15 @@ several optional textbooks/online materials are listed.
 * [Python for beginners](https://www.python.org/about/gettingstarted/)
   and [Python Dictionaries](http://pythonprogramminglanguage.com/dictionary/)
 
+## Presentation skills
+
+* [Basic requrements for a good presentation](http://web.eecs.utk.edu/~bvz/presentation.html)
+
+## Teamwork
+
+[How to tell if you work well in a team](https://info.catme.org/wp-content/uploads/CATME-Rating-Scale.pdf)
+
+
 #### GitHub
 
 * Git and GitHub
