@@ -33,3 +33,13 @@ sure we will know to look at it sooner.
 
 ## Due Monday Jan 14: Github Milestone, open an issue, and assign it to yurself
 
+The milestone should be for repo test
+and named netid_git, with deadline for Mon 14
+
+The issue should ask:
+
+Explain the differences among github fork, git clone, and git branch
+
+
+Commit the result (the narrative explaining the differences)
+in the test repo under netid.md.
