@@ -1,4 +1,7 @@
-
+# Class 2
+  * Do the [second task](https://github.com/CS340-19/news/blob/master/Preliminary.md)
+  * Read the [lecture notes on git](https://github.com/CS340-19/news/blob/lectures/version_control.pdf)
+  
 # Class 1
   * Do the [first task](https://github.com/CS340-19/news/blob/master/Preliminary.md)
 
