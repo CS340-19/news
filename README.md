@@ -1,9 +1,13 @@
+
+# Class 1
+  * Do the [first task](https://github.com/CS340-19/news/blob/master/Preliminary.md)
+
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
 * ** MK404  MWF  9:05AM-09:55AM (Min Kao 524) **
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** TBD
+* **TAs:** [Preston Provins](pprovins@vols.utk.edu) and [Rayhan Hossain](rhossai2@vols.utk.edu)
 * **Need help?**
 
 Simple rules: 
