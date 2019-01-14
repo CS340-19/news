@@ -1,5 +1,5 @@
 # Class 3
-  * What is [software engineering](https://github.com/CS340-19/lectures/blob/master/introduction.pdf)
+  * What is [software engineering?](https://github.com/CS340-19/lectures/blob/master/introduction.pdf)
   
 # Class 2
   * Do the [second task](https://github.com/CS340-19/news/blob/master/Preliminary.md)
