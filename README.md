@@ -1,10 +1,11 @@
 
-# Class Identifying class projects
+# Class 5
+  * Identifying class projects
 
 # Class 4
   * Finish: What is [software engineering?](https://github.com/CS340-19/lectures/blob/master/introduction.pdf)
 
-# Class 3
+# Class 3 (Jan 14)
   * What is [software engineering?](https://github.com/CS340-19/lectures/blob/master/introduction.pdf)
   
 # Class 2
