@@ -1,4 +1,7 @@
 
+# Class 6 (Jan 23)
+  * Finalize class project assignments
+
 # Class 5
   * Identifying class projects
 
