@@ -1,8 +1,8 @@
 
 # Class 6 (Jan 23)
   * Finalize class project assignments
-      - Each proposal gets 2-5 min to present their idea
-      - If you have an idea, please submit to the proposals repo
+      - Each pre-proposal gets 2-5 min to present their idea
+      - If you have an idea, please add it to the proposals repo
 
 # Class 5
   * Identifying class projects
