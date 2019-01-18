@@ -2,7 +2,7 @@
 # Class 6 (Jan 23)
   * Finalize class project assignments
       - Each pre-proposal gets 2-5 min to present their idea
-      - If you have an idea, please add it to the proposals repo
+      - If you have an idea, please add it to the [proposals repo](https://github.com/CS340-19/proposals)
 
 # Class 5
   * Identifying class projects
