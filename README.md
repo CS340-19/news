@@ -1,6 +1,8 @@
 
 # Class 7 (Jan 27)
   * Teams are writting project proposal
+  * Create a repo under CS340-19 for your proposal
+  * Create a team under 
 
 # Class 6 (Jan 25)
   * Finalize class project assignments
