@@ -4,7 +4,8 @@
   * Create a repo under CS340-19 for your project
   * Create a team under https://github.com/orgs/CS340-19/teams/students/teams for your project
   * Add members of your project to the project team
-  * Make project team amin collaborator for your project repo
+  * Make project team amin collaborator for your project repo, e.g., for CampusGroupChat go to https://github.com/CS340-19/CampusGroupChat/settings/collaboration and add the relevant team
+  * Project propsals (full) should be placed in https://github.com/CS340-19/YourProjectName/proposal.md
 
 # Class 6 (Jan 25)
   * Finalize class project assignments
