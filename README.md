@@ -1,4 +1,7 @@
 
+# Class 7 (Jan 27)
+  * Teams are writting project proposal
+
 # Class 6 (Jan 25)
   * Finalize class project assignments
       - Each pre-proposal gets 2-5 min to present their idea
