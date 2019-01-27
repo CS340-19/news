@@ -1,5 +1,18 @@
 
-# Class 7 (Jan 27)
+# Class 10 (Feb 1)
+  * Working on Sprint 1
+
+# Class 9 (Jan 30)
+  * Presenting project proposals (5min max)
+   
+# Class 8 (Jan 28)
+  * Practice weekly scrum: each team answers the following three questions:
+      - What did you do last week?
+      - What will you do this week?
+      - Are there any impediments in your way?
+  * Software process lecture
+
+# Class 7 (Jan 25)
   * Teams are writting project proposal
   * Create a repo under CS340-19 for your project
   * Create a team under https://github.com/orgs/CS340-19/teams/students/teams for your project
