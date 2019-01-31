@@ -1,6 +1,6 @@
 # Class 15 (Feb 8)
   * Halfway through sprint 1
-       Scrum meetings
+       - Scrum meetings
        
 # Class 12 (Feb 6)
   * Networking/Cloud Technology practice
