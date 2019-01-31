@@ -1,3 +1,19 @@
+# Class 15 (Feb 8)
+  * Halfway through sprint 1
+       Scrum meetings
+       
+# Class 12 (Feb 6)
+  * Networking/Cloud Technology practice
+       Work on stting up automatic build on dockerhub
+       Work on starting connecting a GCP virtual instance
+       Deploying application
+
+# Class 11 (Feb 4)
+  * Networking/Cloud Technology concepts
+       TCP
+       Tunnels
+       Virtual machines and containers
+       Cloud provisioning
 
 # Class 10 (Feb 1)
   * Working on Sprint 1
