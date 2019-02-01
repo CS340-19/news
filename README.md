@@ -4,7 +4,7 @@
        
 # Class 12 (Feb 6)
   * Networking/Cloud Technology practice
-       - Work on stting up automatic build on dockerhub
+       - Work on setting up automatic build on dockerhub
        - Work on starting connecting a GCP virtual instance
        - Deploying application
 
