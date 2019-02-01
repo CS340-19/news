@@ -4,12 +4,12 @@
        
 # Class 12 (Feb 6)
   * Networking/Cloud Technology practice
-       - Work on setting up automatic build on dockerhub
-       - Work on starting connecting a GCP virtual instance
+       - [Work on setting up automatic build on dockerhub](https://github.com/CS340-19/lectures/blob/master/Docker.md)
+       - [Work on starting connecting a GCP virtual instance](https://github.com/CS340-19/lectures/blob/master/GC.md)
        - Deploying application
 
 # Class 11 (Feb 4)
-  * Networking/Cloud Technology concepts
+  * Basic [Networking/Cloud Technology concepts](https://github.com/CS340-19/lectures/blob/master/magic.pdf)
        - TCP
        - Tunnels
        - Virtual machines and containers
