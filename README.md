@@ -1,4 +1,4 @@
-# Class 15 (Feb 8)
+# Class 13 (Feb 8)
   * Halfway through sprint 1
        - Scrum meetings
        
