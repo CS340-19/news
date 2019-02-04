@@ -1,3 +1,6 @@
+# Class 14 (Feb 11)
+  * Architecture
+
 # Class 13 (Feb 8)
   * Halfway through sprint 1
        - Scrum meetings
