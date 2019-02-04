@@ -1,5 +1,14 @@
+# Class 17-19 (Feb 18-22)
+  * Work on Sprint 2
+
+# Class 16 (Feb 15)
+  * Finish of Sprint 1
+
+# Class 15 (Feb 13)
+  * [Design patterns](https://github.com/CS340-19/lectures/blob/master/design_patterns.pdf)
+
 # Class 14 (Feb 11)
-  * Architecture
+  * [Architecture](https://github.com/CS340-19/lectures/blob/master/software_architecture.pdf)
 
 # Class 13 (Feb 8)
   * Halfway through sprint 1
