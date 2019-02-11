@@ -3,7 +3,7 @@
 
 # Class 16 (Feb 15)
   * Finish of Sprint 1
-  * Webserver on GCP due [status](https://github.com/CS340-19/webserver/blob/master/resuls.md)
+  * Webserver on GCP due [status](https://github.com/CS340-19/webserver/blob/master/results.md)
 
 # Class 15 (Feb 13)
   * [Design patterns](https://github.com/CS340-19/lectures/blob/master/design_patterns.pdf)
