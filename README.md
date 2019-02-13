@@ -1,13 +1,16 @@
-# Class 17-19 (Feb 18-22)
+# Class 18-19 (Feb 20, 22)
   * Work on Sprint 2
+
+# Class 17 (Feb 18)
+  * [Design patterns](https://github.com/CS340-19/lectures/blob/master/design_patterns.pdf)
 
 # Class 16 (Feb 15)
   * Finish of Sprint 1
   * Webserver on GCP due [status](https://github.com/CS340-19/webserver/blob/master/results.md)
 
 # Class 15 (Feb 13)
-  * [Design patterns](https://github.com/CS340-19/lectures/blob/master/design_patterns.pdf)
-
+  * Finishing [Architecture](https://github.com/CS340-19/lectures/blob/master/software_architecture.pdf)
+  
 # Class 14 (Feb 11)
   * [Architecture](https://github.com/CS340-19/lectures/blob/master/software_architecture.pdf)
 
