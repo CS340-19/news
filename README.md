@@ -1,3 +1,6 @@
+# Class 20 (Feb 25)
+  * [Validation and Verification](https://github.com/CS340-19/lectures/blob/master/validation_and_verification.pdf)
+
 # Class 18-19 (Feb 20, 22)
   * Work on Sprint 2
 
