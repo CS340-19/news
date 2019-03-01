@@ -1,3 +1,14 @@
+## ATTENTION GRADUATING CS SENIORS (either spring or summer graduates)
+
+The Tennessee Higher Education Commission (THEC) is requiring that the EECS department administer the ETS CS Major Field Exam to all graduating CS seniors (i.e., those graduating either this spring or this summer). You will need to take this exam on either Tuesday, April 2 from 3:30-5:30pm or Wednesday, April 3 from 5-7pm in MK 524. Here are some additional details:
+
+1) Please go to https://doodle.com/poll/37ufg87p7xqq8giy to indicate which date you plan to take the exam.
+2) We will be serving pizza so you will have something to eat.
+3) The exam is a multiple choice exam that covers all areas of CS. There is no need to study for the exam.
+4) The exam does not count against any of your grades but it is important to the department and university since it has affected university funding in the past (better performances leading to better funding).
+5) The site https://www.ets.org/mft/about/content/computer_science contains additional information about the exam if you want to find out more about it. 
+
+If you want more information about the exam or absolutely cannot make the two exam dates, please contact Professor Brad Vander Zanden (bvanderz@utk.edu).
 
 # Class 22 (Mar 1)
   * Start on Sprint 3
