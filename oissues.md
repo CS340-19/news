@@ -1,3 +1,21 @@
+# No Issues assigned
+AaronJohnson2
+Dakobrah
+Deltaus
+YimingSun60
+YuchengMaUTK
+abbypro
+alnidu
+atutko2
+bkidgamer1
+cmobley4
+dlee865
+jball1997
+mickidymick
+sunny2121
+twheaton9797
+viktorZenkov
+
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
 |CS340-19/MoonMan|19|open|2019-02-13T14:30:56Z|[]|None||Implement new player characters, new player acquisition system, player character swap selection in upgrade menu 

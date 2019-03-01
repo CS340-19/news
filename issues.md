@@ -1,5 +1,6 @@
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
+|CS340-19/MoonMan|20|open|2019-03-01T14:57:58Z|jball1997|None||walking after jumping bug
 |CS340-19/MoonMan|19|open|2019-02-13T14:30:56Z|[]|None||Implement new player characters, new player acquisition system, player character swap selection in upgrade menu 
 |CS340-19/MoonMan|18|open|2019-02-27T05:31:23Z|mickidymick|None||Implement scoring system and visuals
 |CS340-19/MoonMan|17|open|2019-02-13T14:27:26Z|[]|None||Implement Upgrade menu between levels
@@ -7,7 +8,7 @@
 |CS340-19/MoonMan|15|open|2019-02-26T00:33:03Z|atutko2|None||Implement enemy generation and destruction
 |CS340-19/MoonMan|14|open|2019-02-11T22:41:29Z|3PIV|None||added to intro and technology sections based on feedback
 |CS340-19/MoonMan|13|closed|2019-02-11T15:00:46Z|[]|None||Changed fly up to W, down to S, and drop to Q
-|CS340-19/MoonMan|12|open|2019-02-11T14:50:12Z|[]|2019-02-25T08:00:00Z||Start Implementing Sound Files
+|CS340-19/MoonMan|12|open|2019-03-01T14:40:14Z|antvegao8a|2019-02-25T08:00:00Z||Start Implementing Sound Files
 |CS340-19/MoonMan|11|closed|2019-02-18T04:57:32Z|atutko2|2019-02-15T08:00:00Z||Debug the issues with walking and flying 
 |CS340-19/MoonMan|10|closed|2019-02-24T19:46:39Z|mickidymick|2019-02-15T08:00:00Z||Debug the issues with multi resolution so everything looks the same 
 |CS340-19/MoonMan|9|closed|2019-02-27T05:08:09Z|jball1997|2019-02-15T08:00:00Z||Implement Gun, Laser system
@@ -19,40 +20,47 @@
 |CS340-19/MoonMan|3|closed|2019-02-08T14:33:41Z|mickidymick|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|2|closed|2019-02-11T14:14:31Z|dlee865|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|1|closed|2019-02-01T14:15:47Z|mickidymick|None||Window & Ground
-|CS340-19/TheGivers|13|open|2019-03-01T14:25:57Z|[]|2019-03-22T07:00:00Z||Full Scale Back End
-|CS340-19/TheGivers|12|open|2019-03-01T14:30:58Z|anehls93|2019-03-22T07:00:00Z||Initial Quiz questions
+|CS340-19/TheGivers|14|open|2019-03-01T14:55:11Z|Deltaus|2019-03-22T07:00:00Z||Putting Product Data in FB
+|CS340-19/TheGivers|13|open|2019-03-01T14:51:54Z|anehls93|2019-03-22T07:00:00Z|,enhancement|Full Scale Back End
+|CS340-19/TheGivers|12|closed|2019-03-01T14:36:20Z|anehls93|2019-03-22T07:00:00Z||Initial Quiz questions
 |CS340-19/TheGivers|11|closed|2019-02-23T00:27:30Z|Deltaus|2019-03-01T08:00:00Z||add functions
 |CS340-19/TheGivers|10|closed|2019-02-20T14:29:20Z|[]|None||Add functions/UI improvement
 |CS340-19/TheGivers|9|closed|2019-02-18T07:54:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|add login page and other improvement
 |CS340-19/TheGivers|8|closed|2019-02-18T07:37:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|Restructure apps: add pages, navigation bar
 |CS340-19/TheGivers|7|open|2019-03-01T14:22:56Z|syd-shelby|2019-03-01T08:00:00Z||More efficient Product Scrapping
-|CS340-19/TheGivers|6|closed|2019-03-01T14:29:51Z|abbypro|2019-03-01T08:00:00Z||Firebase Life
+|CS340-19/TheGivers|6|open|2019-03-01T14:33:39Z|abbypro|2019-03-01T08:00:00Z||Firebase Life
 |CS340-19/TheGivers|5|closed|2019-02-23T00:35:25Z|Deltaus|2019-03-01T08:00:00Z|,enhancement|Profiles and implement some features
 |CS340-19/TheGivers|4|closed|2019-02-15T14:49:14Z|syd-shelby|2019-02-15T08:00:00Z||Odds and Ends
 |CS340-19/TheGivers|3|closed|2019-02-14T06:40:14Z|abbypro|2019-02-15T08:00:00Z||Set Up Firebase
-|CS340-19/TheGivers|2|open|2019-03-01T14:29:17Z|eplank18|2019-03-01T08:00:00Z|,enhancement,good first issue|Profiles
+|CS340-19/TheGivers|2|open|2019-03-01T14:59:42Z|eplank18|2019-03-01T08:00:00Z|,enhancement,good first issue|Profiles
 |CS340-19/TheGivers|1|closed|2019-03-01T14:30:26Z|anehls93|2019-03-01T08:00:00Z|,enhancement|Access Amazon back end, acquire list of product data
+|CS340-19/EzOrdr|15|open|2019-03-01T14:49:55Z|viktorZenkov|2019-03-15T07:00:00Z||Interactive elements JS
+|CS340-19/EzOrdr|14|open|2019-03-01T14:49:16Z|GrissomE|2019-03-15T07:00:00Z||AJAX running
 |CS340-19/EzOrdr|13|closed|2019-02-22T14:41:36Z|[]|None||Closing out my collaboration branch
 |CS340-19/EzOrdr|12|closed|2019-02-08T14:24:28Z|[]|None||feat(): adding Javascript functionality to base menu
 |CS340-19/EzOrdr|11|closed|2019-02-06T18:27:42Z|[]|None||feat(): updated layout
 |CS340-19/EzOrdr|10|closed|2019-02-03T16:46:09Z|[]|None||feat(): Initial Flask webframework
-|CS340-19/EzOrdr|9|open|2019-02-01T17:53:05Z|GrissomE|2019-02-25T08:00:00Z||Get Admin section running
-|CS340-19/EzOrdr|8|open|2019-02-01T17:52:39Z|spaulsteinberg|2019-02-25T08:00:00Z||Add totals and order list on page
-|CS340-19/EzOrdr|7|open|2019-02-01T17:51:56Z|GrissomE|2019-02-25T08:00:00Z||Continue extraction and hone the menu and kitchen pages
-|CS340-19/EzOrdr|6|open|2019-02-16T19:43:48Z|GrissomE|2019-02-25T08:00:00Z||Send one complete order for Minimum Viable System
-|CS340-19/EzOrdr|5|open|2019-02-16T19:43:56Z|GrissomE|2019-02-25T08:00:00Z||Get database up and running
+|CS340-19/EzOrdr|9|open|2019-03-01T14:48:51Z|GrissomE|2019-03-15T07:00:00Z||Get Admin section running
+|CS340-19/EzOrdr|8|open|2019-03-01T14:49:00Z|spaulsteinberg|2019-03-15T07:00:00Z||Add totals and order list on page
+|CS340-19/EzOrdr|7|closed|2019-03-01T14:46:50Z|GrissomE|2019-02-25T08:00:00Z||Continue extraction and hone the menu and kitchen pages
+|CS340-19/EzOrdr|6|open|2019-03-01T14:49:00Z|GrissomE|2019-03-15T07:00:00Z||Send one complete order for Minimum Viable System
+|CS340-19/EzOrdr|5|closed|2019-03-01T14:46:34Z|GrissomE|2019-02-25T08:00:00Z||Get database up and running
 |CS340-19/EzOrdr|4|closed|2019-02-08T14:21:05Z|spaulsteinberg|2019-02-11T08:00:00Z||General styling of page --> get some elements reactive
 |CS340-19/EzOrdr|3|closed|2019-02-08T13:08:21Z|spaulsteinberg|2019-02-11T08:00:00Z||Basic HTML Page
 |CS340-19/EzOrdr|2|closed|2019-01-25T15:01:51Z|[]|None||Proposal
 |CS340-19/EzOrdr|1|closed|2019-01-25T15:02:22Z|GrissomE|2019-01-25T08:00:00Z|,enhancement|Work on Proposal
-|CS340-19/Linux-4-Kids|15|open|2019-02-26T20:14:06Z|[]|None||(WIP) feat: installed Material2 as our UI library
-|CS340-19/Linux-4-Kids|14|open|2019-02-22T14:46:26Z|areg28|2019-03-01T08:00:00Z||Get Pictures for Lessons
+|CS340-19/Linux-4-Kids|19|open|2019-03-01T15:18:15Z|[]|2019-03-15T07:00:00Z||Sign in component
+|CS340-19/Linux-4-Kids|18|open|2019-03-01T15:04:49Z|[]|2019-03-15T07:00:00Z||Create toolbar component
+|CS340-19/Linux-4-Kids|17|closed|2019-03-01T14:47:33Z|jsamar1|2019-03-01T08:00:00Z||Add the UI library we plan on using to the repo
+|CS340-19/Linux-4-Kids|16|open|2019-03-01T14:45:23Z|areg28|2019-03-15T07:00:00Z||Finish the Lessons for the Tutorial Plan
+|CS340-19/Linux-4-Kids|15|closed|2019-03-01T14:44:29Z|[]|None||(WIP) feat: installed Material2 as our UI library
+|CS340-19/Linux-4-Kids|14|open|2019-03-01T15:01:40Z|areg28|2019-03-15T07:00:00Z||Get Pictures for Lessons
 |CS340-19/Linux-4-Kids|13|closed|2019-02-15T14:31:12Z|[]|None||added MongoDB to dependencies, modified dev doc
-|CS340-19/Linux-4-Kids|12|open|2019-02-08T14:29:45Z|dwasilko|2019-03-01T08:00:00Z||Produce mock-up of visual design for website
-|CS340-19/Linux-4-Kids|11|open|2019-02-08T14:30:52Z|jsamar1|2019-03-01T08:00:00Z||Set up our website on some hosting platform to access it from the web. 
-|CS340-19/Linux-4-Kids|10|open|2019-02-08T14:20:27Z|[]|2019-03-01T08:00:00Z||Create initial design for the front-end of the website
-|CS340-19/Linux-4-Kids|9|open|2019-02-08T14:30:29Z|areg28|2019-03-01T08:00:00Z||Decide on first lesson and lay out curriculum
-|CS340-19/Linux-4-Kids|8|open|2019-02-10T19:05:45Z|rderby711|2019-03-01T08:00:00Z||Set up user capabilities of databases through MongoDB
+|CS340-19/Linux-4-Kids|12|open|2019-03-01T15:01:47Z|dwasilko|2019-03-15T07:00:00Z||Produce mock-up of visual design for website
+|CS340-19/Linux-4-Kids|11|open|2019-03-01T15:00:59Z|jsamar1|2019-03-15T07:00:00Z||Set up our website on some hosting platform to access it from the web. 
+|CS340-19/Linux-4-Kids|10|closed|2019-03-01T14:44:45Z|[]|2019-03-01T08:00:00Z||Create initial design for the front-end of the website
+|CS340-19/Linux-4-Kids|9|closed|2019-03-01T14:42:13Z|areg28|2019-03-01T08:00:00Z||Decide on first lesson and lay out curriculum
+|CS340-19/Linux-4-Kids|8|open|2019-03-01T15:01:14Z|rderby711|2019-03-15T07:00:00Z||Set up user capabilities of databases through MongoDB
 |CS340-19/Linux-4-Kids|7|closed|2019-02-05T18:02:32Z|[]|None||feat: start of dev doc - fixes #4
 |CS340-19/Linux-4-Kids|6|closed|2019-02-05T17:50:33Z|[]|None||feat: added framework and empty sass file
 |CS340-19/Linux-4-Kids|5|closed|2019-02-08T14:25:30Z|[]|2019-02-08T08:00:00Z||Develop a working knowledge of both Linux and React
@@ -79,15 +87,19 @@
 |CS340-19/CampusGroupChat|3|closed|2019-02-15T15:06:23Z|rhendz|2019-02-15T08:00:00Z||Design Basic UI
 |CS340-19/CampusGroupChat|2|closed|2019-02-13T04:55:35Z|SpencerHowell|2019-02-15T08:00:00Z||Implement App Scaffolding
 |CS340-19/CampusGroupChat|1|closed|2019-02-13T12:42:16Z|rhendz|2019-02-15T08:00:00Z|,good first issue|Learn Dart
-|CS340-19/MachineLearningSquad|8|open|2019-02-15T14:42:12Z|Jalburn|2019-03-01T08:00:00Z||Learn/Implement Google JSON API
-|CS340-19/MachineLearningSquad|7|open|2019-02-15T14:41:43Z|aoaks2|2019-03-01T08:00:00Z||Continue Addon JS
+|CS340-19/MachineLearningSquad|11|open|2019-03-01T14:44:01Z|kobloo|2019-03-15T07:00:00Z||Incorporate Text Classifier
+|CS340-19/MachineLearningSquad|10|open|2019-03-01T14:43:27Z|TannerFry|2019-03-15T07:00:00Z||Incorporate Twitter API
+|CS340-19/MachineLearningSquad|9|open|2019-03-01T14:42:16Z|aoaks2|2019-03-15T07:00:00Z||Incorporate JS Addon
+|CS340-19/MachineLearningSquad|8|open|2019-03-01T14:45:11Z|Jalburn|2019-03-15T07:00:00Z||Learn/Implement Google JSON API
+|CS340-19/MachineLearningSquad|7|open|2019-03-01T14:41:19Z|aoaks2|2019-03-01T08:00:00Z||Continue Addon JS
 |CS340-19/MachineLearningSquad|6|open|2019-02-15T14:40:34Z|TannerFry|2019-03-01T08:00:00Z||"Tweepy" Implementation
 |CS340-19/MachineLearningSquad|5|open|2019-02-22T14:55:18Z|kobloo|2019-03-01T08:00:00Z||Create Text Classifier
 |CS340-19/MachineLearningSquad|4|closed|2019-02-15T14:14:34Z|Jalburn|2019-02-15T08:00:00Z||Research: Google API
 |CS340-19/MachineLearningSquad|3|closed|2019-02-15T14:14:37Z|TannerFry|2019-02-15T08:00:00Z||Research: Twitter API
-|CS340-19/MachineLearningSquad|2|open|2019-02-01T14:55:03Z|kobloo|2019-02-15T08:00:00Z||Research: Machine Learning
-|CS340-19/MachineLearningSquad|1|open|2019-02-15T14:39:31Z|aoaks2|2019-02-15T08:00:00Z||Research: Addon JS
-|CS340-19/image_translator|12|open|2019-02-15T15:11:34Z|[]|None||using google translate
+|CS340-19/MachineLearningSquad|2|closed|2019-03-01T14:38:27Z|kobloo|2019-02-15T08:00:00Z||Research: Machine Learning
+|CS340-19/MachineLearningSquad|1|closed|2019-03-01T14:39:30Z|aoaks2|2019-02-15T08:00:00Z||Research: Addon JS
+|CS340-19/image_translator|13|closed|2019-03-01T14:53:53Z|[]|None||Added Main app file
+|CS340-19/image_translator|12|open|2019-03-01T14:47:45Z|YimingSun60|None||using google translate
 |CS340-19/image_translator|11|open|2019-02-15T15:10:28Z|Dakobrah|None||upload google vision api to code
 |CS340-19/image_translator|10|open|2019-02-15T14:21:56Z|Dakobrah|None||need platform to incorporated google api
 |CS340-19/image_translator|9|closed|2019-02-15T15:06:27Z|YimingSun60|2019-02-18T08:00:00Z||base platform to upload image
