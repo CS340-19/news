@@ -1,5 +1,5 @@
 
-# Class 20 (Mar 1)
+# Class 22 (Mar 1)
   * Start on Sprint 3
   * Please make sure you [are assigned an issue](https://github.com/CS340-19/news/blob/master/oissues.md)!
 
