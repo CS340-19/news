@@ -28,7 +28,7 @@
 |CS340-19/TheGivers|9|closed|2019-02-18T07:54:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|add login page and other improvement
 |CS340-19/TheGivers|8|closed|2019-02-18T07:37:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|Restructure apps: add pages, navigation bar
 |CS340-19/TheGivers|7|open|2019-03-01T14:22:56Z|syd-shelby|2019-03-01T08:00:00Z||More efficient Product Scrapping
-|CS340-19/TheGivers|6|open|2019-03-01T14:33:39Z|abbypro|2019-03-01T08:00:00Z||Firebase Life
+|CS340-19/TheGivers|6|open|2019-03-01T16:11:46Z|abbypro|2019-03-22T07:00:00Z||Firebase Life
 |CS340-19/TheGivers|5|closed|2019-02-23T00:35:25Z|Deltaus|2019-03-01T08:00:00Z|,enhancement|Profiles and implement some features
 |CS340-19/TheGivers|4|closed|2019-02-15T14:49:14Z|syd-shelby|2019-02-15T08:00:00Z||Odds and Ends
 |CS340-19/TheGivers|3|closed|2019-02-14T06:40:14Z|abbypro|2019-02-15T08:00:00Z||Set Up Firebase
@@ -92,7 +92,7 @@
 |CS340-19/MachineLearningSquad|9|open|2019-03-01T14:42:16Z|aoaks2|2019-03-15T07:00:00Z||Incorporate JS Addon
 |CS340-19/MachineLearningSquad|8|open|2019-03-01T14:45:11Z|Jalburn|2019-03-15T07:00:00Z||Learn/Implement Google JSON API
 |CS340-19/MachineLearningSquad|7|open|2019-03-01T14:41:19Z|aoaks2|2019-03-01T08:00:00Z||Continue Addon JS
-|CS340-19/MachineLearningSquad|6|open|2019-02-15T14:40:34Z|TannerFry|2019-03-01T08:00:00Z||"Tweepy" Implementation
+|CS340-19/MachineLearningSquad|6|closed|2019-03-01T16:20:06Z|TannerFry|2019-03-01T08:00:00Z||"Tweepy" Implementation
 |CS340-19/MachineLearningSquad|5|open|2019-02-22T14:55:18Z|kobloo|2019-03-01T08:00:00Z||Create Text Classifier
 |CS340-19/MachineLearningSquad|4|closed|2019-02-15T14:14:34Z|Jalburn|2019-02-15T08:00:00Z||Research: Google API
 |CS340-19/MachineLearningSquad|3|closed|2019-02-15T14:14:37Z|TannerFry|2019-02-15T08:00:00Z||Research: Twitter API
