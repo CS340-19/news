@@ -1,20 +1,20 @@
 # No Issues assigned
-AaronJohnson2
-Dakobrah
-Deltaus
-YimingSun60
-YuchengMaUTK
-abbypro
-alnidu
-atutko2
-bkidgamer1
-cmobley4
-dlee865
-jball1997
-mickidymick
-sunny2121
-twheaton9797
-viktorZenkov
+    - AaronJohnson2
+    - Dakobrah
+    - Deltaus
+    - YimingSun60
+    - YuchengMaUTK
+    - abbypro
+    - alnidu
+    - atutko2
+    - bkidgamer1
+    - cmobley4
+    - dlee865
+    - jball1997
+    - mickidymick
+    - sunny2121
+    - twheaton9797
+    - viktorZenkov
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
