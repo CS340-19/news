@@ -1,3 +1,11 @@
+
+# Class 20 (Mar 1)
+  * Start on Sprint 3
+  * Please make sure you [are assigned an issue](https://github.com/CS340-19/news/blob/master/oissues.md)!
+
+# Class 21 (Feb 27)
+  * Work on Sprint 2
+
 # Class 20 (Feb 25)
   * [Validation and Verification](https://github.com/CS340-19/lectures/blob/master/validation_and_verification.pdf)
 
