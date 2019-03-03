@@ -1,12 +1,15 @@
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
+|CS340-19/MoonMan|23|open|2019-03-01T18:59:38Z|dlee865|None||Add non visual health tracking for player and enemy
+|CS340-19/MoonMan|22|open|2019-03-01T18:59:11Z|dlee865|None||Enhance ID class
+|CS340-19/MoonMan|21|open|2019-03-01T18:57:51Z|dlee865|None||Implement sudo random enemy spawning after being killed and backend score tracking(no visuals)
 |CS340-19/MoonMan|20|open|2019-03-01T14:57:58Z|jball1997|None||walking after jumping bug
 |CS340-19/MoonMan|19|open|2019-02-13T14:30:56Z|[]|None||Implement new player characters, new player acquisition system, player character swap selection in upgrade menu 
 |CS340-19/MoonMan|18|open|2019-02-27T05:31:23Z|mickidymick|None||Implement scoring system and visuals
 |CS340-19/MoonMan|17|open|2019-02-13T14:27:26Z|[]|None||Implement Upgrade menu between levels
 |CS340-19/MoonMan|16|closed|2019-02-27T05:30:43Z|mickidymick|None||implement multi foreground generation and random selection, side scrolling box, start, finish zones
 |CS340-19/MoonMan|15|open|2019-02-26T00:33:03Z|atutko2|None||Implement enemy generation and destruction
-|CS340-19/MoonMan|14|open|2019-02-11T22:41:29Z|3PIV|None||added to intro and technology sections based on feedback
+|CS340-19/MoonMan|14|closed|2019-03-01T18:49:29Z|3PIV|None||added to intro and technology sections based on feedback
 |CS340-19/MoonMan|13|closed|2019-02-11T15:00:46Z|[]|None||Changed fly up to W, down to S, and drop to Q
 |CS340-19/MoonMan|12|open|2019-03-01T14:40:14Z|antvegao8a|2019-02-25T08:00:00Z||Start Implementing Sound Files
 |CS340-19/MoonMan|11|closed|2019-02-18T04:57:32Z|atutko2|2019-02-15T08:00:00Z||Debug the issues with walking and flying 
