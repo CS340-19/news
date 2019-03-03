@@ -3,10 +3,8 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 
     - AaronJohnson2
     - Dakobrah
-    - Deltaus
     - YimingSun60
     - YuchengMaUTK
-    - abbypro
     - alnidu
     - atutko2
     - bkidgamer1
@@ -16,7 +14,6 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
     - mickidymick
     - sunny2121
     - twheaton9797
-    - viktorZenkov
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
