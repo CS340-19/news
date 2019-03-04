@@ -1,22 +1,22 @@
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
-|CS340-19/MoonMan|23|open|2019-03-01T18:59:38Z|dlee865|None||Add non visual health tracking for player and enemy
-|CS340-19/MoonMan|22|open|2019-03-01T18:59:11Z|dlee865|None||Enhance ID class
-|CS340-19/MoonMan|21|open|2019-03-01T18:57:51Z|dlee865|None||Implement sudo random enemy spawning after being killed and backend score tracking(no visuals)
-|CS340-19/MoonMan|20|open|2019-03-01T14:57:58Z|jball1997|None||walking after jumping bug
-|CS340-19/MoonMan|19|open|2019-02-13T14:30:56Z|[]|None||Implement new player characters, new player acquisition system, player character swap selection in upgrade menu 
-|CS340-19/MoonMan|18|open|2019-02-27T05:31:23Z|mickidymick|None||Implement scoring system and visuals
-|CS340-19/MoonMan|17|open|2019-02-13T14:27:26Z|[]|None||Implement Upgrade menu between levels
-|CS340-19/MoonMan|16|closed|2019-02-27T05:30:43Z|mickidymick|None||implement multi foreground generation and random selection, side scrolling box, start, finish zones
-|CS340-19/MoonMan|15|open|2019-02-26T00:33:03Z|atutko2|None||Implement enemy generation and destruction
+|CS340-19/MoonMan|23|open|2019-03-04T14:19:18Z|dlee865|2019-03-11T07:00:00Z||Add non visual health tracking for player and enemy
+|CS340-19/MoonMan|22|open|2019-03-04T14:19:17Z|dlee865|2019-03-11T07:00:00Z||Enhance ID class
+|CS340-19/MoonMan|21|open|2019-03-04T14:19:01Z|dlee865|2019-03-11T07:00:00Z||Implement sudo random enemy spawning after being killed and backend score tracking(no visuals)
+|CS340-19/MoonMan|20|open|2019-03-04T14:18:42Z|jball1997|2019-03-11T07:00:00Z||walking after jumping bug
+|CS340-19/MoonMan|19|open|2019-03-04T14:22:11Z|[]|None||Implement new player characters, new player acquisition system, player character swap selection in main menu 
+|CS340-19/MoonMan|18|open|2019-03-04T14:18:25Z|mickidymick|2019-03-11T07:00:00Z||Implement scoring system and visuals
+|CS340-19/MoonMan|17|open|2019-03-04T14:21:38Z|[]|None||Implement Splash Screen between levels
+|CS340-19/MoonMan|16|closed|2019-03-04T14:14:07Z|mickidymick|2019-02-25T08:00:00Z||implement multi foreground generation and random selection, side scrolling box, start, finish zones
+|CS340-19/MoonMan|15|open|2019-03-04T14:17:47Z|atutko2|2019-03-11T07:00:00Z||Implement enemy generation and destruction
 |CS340-19/MoonMan|14|closed|2019-03-01T18:49:29Z|3PIV|None||added to intro and technology sections based on feedback
 |CS340-19/MoonMan|13|closed|2019-02-11T15:00:46Z|[]|None||Changed fly up to W, down to S, and drop to Q
-|CS340-19/MoonMan|12|open|2019-03-01T14:40:14Z|antvegao8a|2019-02-25T08:00:00Z||Start Implementing Sound Files
-|CS340-19/MoonMan|11|closed|2019-02-18T04:57:32Z|atutko2|2019-02-15T08:00:00Z||Debug the issues with walking and flying 
-|CS340-19/MoonMan|10|closed|2019-02-24T19:46:39Z|mickidymick|2019-02-15T08:00:00Z||Debug the issues with multi resolution so everything looks the same 
-|CS340-19/MoonMan|9|closed|2019-02-27T05:08:09Z|jball1997|2019-02-15T08:00:00Z||Implement Gun, Laser system
-|CS340-19/MoonMan|8|closed|2019-02-22T14:45:53Z|dlee865|2019-02-15T08:00:00Z||Implement Collision Detection for Player and Enemy's
-|CS340-19/MoonMan|7|open|2019-02-11T14:19:12Z|antvegao8a|2019-02-15T08:00:00Z||Implement Game State Quit, Options
+|CS340-19/MoonMan|12|open|2019-03-04T14:17:30Z|antvegao8a|2019-03-11T07:00:00Z||Start Implementing Sound Files
+|CS340-19/MoonMan|11|closed|2019-03-04T14:13:35Z|atutko2|2019-02-25T08:00:00Z||Debug the issues with walking and flying 
+|CS340-19/MoonMan|10|closed|2019-03-04T14:14:29Z|mickidymick|2019-02-25T08:00:00Z||Debug the issues with multi resolution so everything looks the same 
+|CS340-19/MoonMan|9|closed|2019-03-04T14:14:56Z|jball1997|2019-02-25T08:00:00Z||Implement Gun, Laser system
+|CS340-19/MoonMan|8|closed|2019-03-04T14:16:06Z|dlee865|2019-02-25T08:00:00Z||Implement Collision Detection for Player and Enemy's
+|CS340-19/MoonMan|7|open|2019-03-04T14:17:18Z|antvegao8a|2019-02-25T08:00:00Z||Implement Game State Quit, Options
 |CS340-19/MoonMan|6|closed|2019-02-11T14:28:29Z|atutko2|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|5|closed|2019-02-07T17:59:38Z|jball1997|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|4|closed|2019-02-11T14:15:18Z|antvegao8a|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
@@ -71,22 +71,23 @@
 |CS340-19/Linux-4-Kids|3|closed|2019-02-15T14:31:09Z|rderby711|2019-02-08T08:00:00Z||Research/Decide backend Framework
 |CS340-19/Linux-4-Kids|2|closed|2019-02-05T17:46:37Z|jsamar1|2019-02-08T08:00:00Z||Create Website Framework
 |CS340-19/Linux-4-Kids|1|closed|2019-01-30T22:43:42Z|[]|None||feat: add styling to proposal document
-|CS340-19/PersonalPlaylist|3|open|2019-02-01T09:44:16Z|[]|2019-02-22T08:00:00Z||Web Hosting Platform (Research)
+|CS340-19/PersonalPlaylist|3|open|2019-03-04T12:38:00Z|[]|2019-02-22T08:00:00Z||Web Hosting Platform (Research)
 |CS340-19/PersonalPlaylist|2|open|2019-02-08T14:44:45Z|mwbutera|2019-02-22T08:00:00Z||Web Framework / Client Server (Research)
 |CS340-19/PersonalPlaylist|1|open|2019-02-08T14:43:54Z|lhenslee|2019-02-22T08:00:00Z||Spotify API Python Implementation (Research)
+|CS340-19/Synthony|7|open|2019-03-04T03:45:06Z|bkidgamer1|2019-03-09T08:00:00Z|,enhancement|Integrating Tools for Newcomers
 |CS340-19/Synthony|6|open|2019-02-22T14:23:48Z|toddallen97|2019-03-09T08:00:00Z|,enhancement|Modifying the layout of the graphical interface
 |CS340-19/Synthony|5|open|2019-02-22T14:22:27Z|dkennard3|2019-03-09T08:00:00Z|,enhancement|Setting up easy Wave Tables 
 |CS340-19/Synthony|4|open|2019-02-22T14:21:26Z|luke-parker|2019-03-09T08:00:00Z|,enhancement|Web Server
 |CS340-19/Synthony|3|closed|2019-02-08T14:38:01Z|[]|None||Add iPlug2 framework
 |CS340-19/Synthony|2|closed|2019-02-15T14:40:48Z|toddallen97|2019-02-15T08:00:00Z|,enhancement|Investigate the iPlug2 Framework
 |CS340-19/Synthony|1|closed|2019-02-22T14:15:05Z|luke-parker|2019-02-15T08:00:00Z|,enhancement|Setup the Cloud VM with the adequate hardware 
-|CS340-19/CampusGroupChat|10|open|2019-02-20T14:38:58Z|[]|2019-03-02T08:00:00Z||Configure Firebase for iOS
-|CS340-19/CampusGroupChat|9|open|2019-02-20T14:44:50Z|SpencerHowell|2019-03-02T08:00:00Z||Configure Firebase for Android
-|CS340-19/CampusGroupChat|8|open|2019-02-20T14:13:30Z|[]|2019-03-02T08:00:00Z||Chat Select Screen
-|CS340-19/CampusGroupChat|7|open|2019-02-20T14:12:28Z|[]|2019-03-02T08:00:00Z||Location Services
-|CS340-19/CampusGroupChat|6|open|2019-02-20T14:25:27Z|rhendz|2019-03-02T08:00:00Z||Implement Firebase Messaging
+|CS340-19/CampusGroupChat|10|open|2019-03-04T14:34:45Z|sunny2121|2019-03-15T07:00:00Z||Configure Firebase for iOS
+|CS340-19/CampusGroupChat|9|closed|2019-03-04T14:32:34Z|SpencerHowell|2019-03-02T08:00:00Z||Configure Firebase for Android
+|CS340-19/CampusGroupChat|8|open|2019-03-04T14:34:12Z|SpencerHowell|2019-03-15T07:00:00Z||Chat Select Screen
+|CS340-19/CampusGroupChat|7|open|2019-03-04T14:38:05Z|BrysonHowell|2019-03-15T07:00:00Z||Location Services
+|CS340-19/CampusGroupChat|6|open|2019-03-04T14:38:21Z|rhendz|2019-03-15T07:00:00Z||Implement Firebase Messaging
 |CS340-19/CampusGroupChat|5|closed|2019-02-20T14:15:08Z|sunny2121|None||iOS Testing
-|CS340-19/CampusGroupChat|4|open|2019-02-15T14:38:17Z|BrysonHowell|2019-02-15T08:00:00Z||Android Testing
+|CS340-19/CampusGroupChat|4|closed|2019-03-04T14:35:24Z|BrysonHowell|2019-02-15T08:00:00Z||Android Testing
 |CS340-19/CampusGroupChat|3|closed|2019-02-15T15:06:23Z|rhendz|2019-02-15T08:00:00Z||Design Basic UI
 |CS340-19/CampusGroupChat|2|closed|2019-02-13T04:55:35Z|SpencerHowell|2019-02-15T08:00:00Z||Implement App Scaffolding
 |CS340-19/CampusGroupChat|1|closed|2019-02-13T12:42:16Z|rhendz|2019-02-15T08:00:00Z|,good first issue|Learn Dart

@@ -6,13 +6,7 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
     - YimingSun60
     - YuchengMaUTK
     - alnidu
-    - atutko2
-    - bkidgamer1
     - cmobley4
-    - dlee865
-    - jball1997
-    - mickidymick
-    - sunny2121
     - twheaton9797
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
