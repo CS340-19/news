@@ -30,12 +30,12 @@
 |CS340-19/TheGivers|10|closed|2019-02-20T14:29:20Z|[]|None||Add functions/UI improvement
 |CS340-19/TheGivers|9|closed|2019-02-18T07:54:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|add login page and other improvement
 |CS340-19/TheGivers|8|closed|2019-02-18T07:37:02Z|Deltaus|2019-02-15T08:00:00Z|,enhancement|Restructure apps: add pages, navigation bar
-|CS340-19/TheGivers|7|open|2019-03-01T14:22:56Z|syd-shelby|2019-03-01T08:00:00Z||More efficient Product Scrapping
+|CS340-19/TheGivers|7|closed|2019-03-05T19:41:21Z|syd-shelby|2019-03-01T08:00:00Z||More efficient Product Scrapping
 |CS340-19/TheGivers|6|open|2019-03-01T16:11:46Z|abbypro|2019-03-22T07:00:00Z||Firebase Life
 |CS340-19/TheGivers|5|closed|2019-02-23T00:35:25Z|Deltaus|2019-03-01T08:00:00Z|,enhancement|Profiles and implement some features
 |CS340-19/TheGivers|4|closed|2019-02-15T14:49:14Z|syd-shelby|2019-02-15T08:00:00Z||Odds and Ends
 |CS340-19/TheGivers|3|closed|2019-02-14T06:40:14Z|abbypro|2019-02-15T08:00:00Z||Set Up Firebase
-|CS340-19/TheGivers|2|open|2019-03-01T14:59:42Z|eplank18|2019-03-01T08:00:00Z|,enhancement,good first issue|Profiles
+|CS340-19/TheGivers|2|open|2019-03-05T19:41:54Z|eplank18|2019-03-22T07:00:00Z|,enhancement,good first issue|Profiles
 |CS340-19/TheGivers|1|closed|2019-03-01T14:30:26Z|anehls93|2019-03-01T08:00:00Z|,enhancement|Access Amazon back end, acquire list of product data
 |CS340-19/EzOrdr|15|open|2019-03-01T14:49:55Z|viktorZenkov|2019-03-15T07:00:00Z||Interactive elements JS
 |CS340-19/EzOrdr|14|open|2019-03-01T14:49:16Z|GrissomE|2019-03-15T07:00:00Z||AJAX running
@@ -71,13 +71,17 @@
 |CS340-19/Linux-4-Kids|3|closed|2019-02-15T14:31:09Z|rderby711|2019-02-08T08:00:00Z||Research/Decide backend Framework
 |CS340-19/Linux-4-Kids|2|closed|2019-02-05T17:46:37Z|jsamar1|2019-02-08T08:00:00Z||Create Website Framework
 |CS340-19/Linux-4-Kids|1|closed|2019-01-30T22:43:42Z|[]|None||feat: add styling to proposal document
-|CS340-19/PersonalPlaylist|3|open|2019-03-04T12:38:00Z|[]|2019-02-22T08:00:00Z||Web Hosting Platform (Research)
+|CS340-19/PersonalPlaylist|3|closed|2019-03-08T14:20:05Z|[]|2019-02-22T08:00:00Z||Web Hosting Platform (Research)
 |CS340-19/PersonalPlaylist|2|open|2019-02-08T14:44:45Z|mwbutera|2019-02-22T08:00:00Z||Web Framework / Client Server (Research)
 |CS340-19/PersonalPlaylist|1|open|2019-02-08T14:43:54Z|lhenslee|2019-02-22T08:00:00Z||Spotify API Python Implementation (Research)
-|CS340-19/Synthony|7|open|2019-03-04T03:45:06Z|bkidgamer1|2019-03-09T08:00:00Z|,enhancement|Integrating Tools for Newcomers
-|CS340-19/Synthony|6|open|2019-02-22T14:23:48Z|toddallen97|2019-03-09T08:00:00Z|,enhancement|Modifying the layout of the graphical interface
-|CS340-19/Synthony|5|open|2019-02-22T14:22:27Z|dkennard3|2019-03-09T08:00:00Z|,enhancement|Setting up easy Wave Tables 
-|CS340-19/Synthony|4|open|2019-02-22T14:21:26Z|luke-parker|2019-03-09T08:00:00Z|,enhancement|Web Server
+|CS340-19/Synthony|11|open|2019-03-06T14:48:00Z|bkidgamer1|2019-03-11T07:00:00Z|,enhancement|Database Design
+|CS340-19/Synthony|10|open|2019-03-06T14:37:10Z|dkennard3|2019-03-11T07:00:00Z|,enhancement|Configure Security
+|CS340-19/Synthony|9|open|2019-03-06T14:35:25Z|toddallen97|2019-03-11T07:00:00Z|,enhancement|Create Placeholder data
+|CS340-19/Synthony|8|closed|2019-03-08T14:38:42Z|luke-parker|2019-03-11T07:00:00Z|,enhancement|Install LAMP Stack
+|CS340-19/Synthony|7|closed|2019-03-04T16:19:21Z|bkidgamer1|2019-03-09T08:00:00Z|,enhancement|Integrating Tools for Newcomers
+|CS340-19/Synthony|6|closed|2019-03-04T16:19:21Z|toddallen97|2019-03-09T08:00:00Z|,enhancement|Modifying the layout of the graphical interface
+|CS340-19/Synthony|5|closed|2019-03-04T16:19:20Z|dkennard3|2019-03-09T08:00:00Z|,enhancement|Setting up easy Wave Tables 
+|CS340-19/Synthony|4|closed|2019-03-04T16:19:20Z|luke-parker|2019-03-09T08:00:00Z|,enhancement|Web Server
 |CS340-19/Synthony|3|closed|2019-02-08T14:38:01Z|[]|None||Add iPlug2 framework
 |CS340-19/Synthony|2|closed|2019-02-15T14:40:48Z|toddallen97|2019-02-15T08:00:00Z|,enhancement|Investigate the iPlug2 Framework
 |CS340-19/Synthony|1|closed|2019-02-22T14:15:05Z|luke-parker|2019-02-15T08:00:00Z|,enhancement|Setup the Cloud VM with the adequate hardware 
@@ -93,19 +97,20 @@
 |CS340-19/CampusGroupChat|1|closed|2019-02-13T12:42:16Z|rhendz|2019-02-15T08:00:00Z|,good first issue|Learn Dart
 |CS340-19/MachineLearningSquad|11|open|2019-03-01T14:44:01Z|kobloo|2019-03-15T07:00:00Z||Incorporate Text Classifier
 |CS340-19/MachineLearningSquad|10|open|2019-03-01T14:43:27Z|TannerFry|2019-03-15T07:00:00Z||Incorporate Twitter API
-|CS340-19/MachineLearningSquad|9|open|2019-03-01T14:42:16Z|aoaks2|2019-03-15T07:00:00Z||Incorporate JS Addon
+|CS340-19/MachineLearningSquad|9|closed|2019-03-05T15:52:11Z|aoaks2|2019-03-15T07:00:00Z||Incorporate JS Addon
 |CS340-19/MachineLearningSquad|8|open|2019-03-01T14:45:11Z|Jalburn|2019-03-15T07:00:00Z||Learn/Implement Google JSON API
-|CS340-19/MachineLearningSquad|7|open|2019-03-01T14:41:19Z|aoaks2|2019-03-01T08:00:00Z||Continue Addon JS
+|CS340-19/MachineLearningSquad|7|closed|2019-03-05T21:05:05Z|aoaks2|2019-03-01T08:00:00Z||Continue Addon JS
 |CS340-19/MachineLearningSquad|6|closed|2019-03-01T16:20:06Z|TannerFry|2019-03-01T08:00:00Z||"Tweepy" Implementation
 |CS340-19/MachineLearningSquad|5|open|2019-02-22T14:55:18Z|kobloo|2019-03-01T08:00:00Z||Create Text Classifier
 |CS340-19/MachineLearningSquad|4|closed|2019-02-15T14:14:34Z|Jalburn|2019-02-15T08:00:00Z||Research: Google API
 |CS340-19/MachineLearningSquad|3|closed|2019-02-15T14:14:37Z|TannerFry|2019-02-15T08:00:00Z||Research: Twitter API
 |CS340-19/MachineLearningSquad|2|closed|2019-03-01T14:38:27Z|kobloo|2019-02-15T08:00:00Z||Research: Machine Learning
 |CS340-19/MachineLearningSquad|1|closed|2019-03-01T14:39:30Z|aoaks2|2019-02-15T08:00:00Z||Research: Addon JS
+|CS340-19/image_translator|14|open|2019-03-06T14:40:48Z|Dakobrah|None||Get File upload to work with application.
 |CS340-19/image_translator|13|closed|2019-03-01T14:53:53Z|[]|None||Added Main app file
-|CS340-19/image_translator|12|open|2019-03-01T14:47:45Z|YimingSun60|None||using google translate
-|CS340-19/image_translator|11|open|2019-02-15T15:10:28Z|Dakobrah|None||upload google vision api to code
-|CS340-19/image_translator|10|open|2019-02-15T14:21:56Z|Dakobrah|None||need platform to incorporated google api
+|CS340-19/image_translator|12|open|2019-03-01T14:47:45Z|YimingSun60|2019-03-18T07:00:00Z||using google translate
+|CS340-19/image_translator|11|open|2019-02-15T15:10:28Z|Dakobrah|2019-03-12T07:00:00Z||upload google vision api to code
+|CS340-19/image_translator|10|closed|2019-03-04T15:12:43Z|Dakobrah|2019-02-16T08:00:00Z||need platform to incorporated google api
 |CS340-19/image_translator|9|closed|2019-02-15T15:06:27Z|YimingSun60|2019-02-18T08:00:00Z||base platform to upload image
 |CS340-19/image_translator|8|closed|2019-02-01T14:38:03Z|[]|None||Update proposal.md
 |CS340-19/image_translator|7|closed|2019-01-31T21:54:23Z|[]|None||updated values and formatting

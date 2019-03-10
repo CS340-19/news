@@ -2,11 +2,12 @@
 or no deadline for the milestone, or the issue is not assigned to a milestone
 
     - AaronJohnson2
-    - Dakobrah
-    - YimingSun60
     - YuchengMaUTK
     - alnidu
+    - aoaks2
     - cmobley4
+    - luke-parker
+    - syd-shelby
     - twheaton9797
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
