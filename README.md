@@ -10,6 +10,12 @@ The Tennessee Higher Education Commission (THEC) is requiring that the EECS depa
 
 If you want more information about the exam or absolutely cannot make the two exam dates, please contact Professor Brad Vander Zanden (bvanderz@utk.edu).
 
+
+# Class 25 (Mar 11)
+  * [How to contribute to OSS](https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf)
+  * Evryone has an issue assigned: please have one issue per person:
+    breake into subtasks if needed!
+
 # Class 22 (Mar 1)
   * Start on Sprint 3
   * Please make sure you [are assigned an issue](https://github.com/CS340-19/news/blob/master/oissues.md)!
