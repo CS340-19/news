@@ -1,7 +1,6 @@
 # No Issues assigned
 or no deadline for the milestone, or the issue is not assigned to a milestone
 
-    - aoaks2
     - luke-parker
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
@@ -16,6 +15,7 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |CS340-19/MoonMan|15|open|2019-03-04T14:17:47Z|atutko2|2019-03-11T07:00:00Z||Implement enemy generation and destruction
 |CS340-19/MoonMan|12|open|2019-03-04T14:17:30Z|antvegao8a|2019-03-11T07:00:00Z||Start Implementing Sound Files
 |CS340-19/MoonMan|7|open|2019-03-04T14:17:18Z|antvegao8a|2019-02-25T08:00:00Z||Implement Game State Quit, Options
+|CS340-19/TheGivers|15|open|2019-03-11T14:00:57Z|Deltaus eplank18 anehls93|None||Present on the last day of Class
 |CS340-19/TheGivers|14|open|2019-03-01T14:55:11Z|Deltaus|2019-03-22T07:00:00Z||Putting Product Data in FB
 |CS340-19/TheGivers|13|open|2019-03-01T14:51:54Z|anehls93 syd-shelby|2019-03-22T07:00:00Z|,enhancement|Full Scale Back End
 |CS340-19/TheGivers|6|open|2019-03-01T16:11:46Z|abbypro|2019-03-22T07:00:00Z||Firebase Life
@@ -34,6 +34,7 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |CS340-19/Linux-4-Kids|8|open|2019-03-01T15:01:14Z|rderby711|2019-03-15T07:00:00Z||Set up user capabilities of databases through MongoDB
 |CS340-19/PersonalPlaylist|2|open|2019-02-08T14:44:45Z|mwbutera twheaton9797|2019-02-22T08:00:00Z||Web Framework / Client Server (Research)
 |CS340-19/PersonalPlaylist|1|open|2019-02-08T14:43:54Z|lhenslee cmobley4|2019-02-22T08:00:00Z||Spotify API Python Implementation (Research)
+|CS340-19/Synthony|12|open|2019-03-11T13:09:55Z|luke-parker|None|,enhancement|Create data scraping script
 |CS340-19/Synthony|11|open|2019-03-06T14:48:00Z|bkidgamer1|2019-03-11T07:00:00Z|,enhancement|Database Design
 |CS340-19/Synthony|10|open|2019-03-06T14:37:10Z|dkennard3|2019-03-11T07:00:00Z|,enhancement|Configure Security
 |CS340-19/Synthony|9|open|2019-03-06T14:35:25Z|toddallen97|2019-03-11T07:00:00Z|,enhancement|Create Placeholder data
@@ -43,6 +44,7 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |CS340-19/CampusGroupChat|6|open|2019-03-04T14:38:21Z|rhendz SpencerHowell|2019-03-15T07:00:00Z||Implement Firebase Messaging
 |CS340-19/MachineLearningSquad|11|open|2019-03-01T14:44:01Z|kobloo|2019-03-15T07:00:00Z||Incorporate Text Classifier
 |CS340-19/MachineLearningSquad|10|open|2019-03-01T14:43:27Z|TannerFry|2019-03-15T07:00:00Z||Incorporate Twitter API
+|CS340-19/MachineLearningSquad|9|open|2019-03-11T13:06:15Z|aoaks2|2019-03-15T07:00:00Z||Incorporate JS Addon
 |CS340-19/MachineLearningSquad|8|open|2019-03-01T14:45:11Z|Jalburn|2019-03-15T07:00:00Z||Learn/Implement Google JSON API
 |CS340-19/MachineLearningSquad|5|open|2019-02-22T14:55:18Z|kobloo|2019-03-01T08:00:00Z||Create Text Classifier
 |CS340-19/image_translator|14|open|2019-03-06T14:40:48Z|Dakobrah|None||Get File upload to work with application.
