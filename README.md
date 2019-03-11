@@ -1,7 +1,7 @@
-# Please open an issue for the preferred final presentyation date 
+# Please open an issue for the preferred course project presentation date 
   * Please include the name of the project and preferred date
-  * also include the second c and third choice
-  * Please use news repo to open the issue
+  * Also include the second c and third choice
+  * Please use news repo (this one) to open the issue
 
 # Class 25 (Mar 11)
   * [How to contribute to OSS](https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf)
