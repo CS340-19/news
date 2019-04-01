@@ -3,6 +3,25 @@
   * Please include the preferred dates (three choices in order of preference)
   * Please use the news repo (this one) to open the issue
 
+# Class Apr 26
+  * Presentation: TheGivers
+  * Presentation: LinuxForKids
+
+# Class Apr 24
+  * Presentation: CampusChat (second choice)
+  * Presentation: EzOrdr (second choice)
+ 
+# Class Apr 22
+  * Presentation: MachineLearningSquad (second choice)
+  * Presentation: Synthony (second choice)
+  
+# Class Apr 19
+  * Presentation: 
+
+# Class Apr 17
+  * Presentation: MoonMan (only choice)
+  * Presentation: image_translator (first choice)
+  
 # Class 31-35 (Apr 1,3,5,8,12)
   * Work on the final project
 
