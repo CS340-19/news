@@ -3,6 +3,16 @@
   * Please include the preferred dates (three choices in order of preference)
   * Please use the news repo (this one) to open the issue
 
+# Class 31-35 (Apr 1,3,5,8,12)
+  * Work on the final project
+
+# Class 26-30 (Mar 13, 15, 25, 27, 29)
+  * Demo+Status reports are due
+  * [How to contribute to OSS](https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf)
+  * Evryone has an issue assigned: please have one issue per person:
+    breake into subtasks if needed!
+
+
 # Class 25 (Mar 11)
   * [How to contribute to OSS](https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf)
   * Evryone has an issue assigned: please have one issue per person:
