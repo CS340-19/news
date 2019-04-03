@@ -16,11 +16,10 @@
   * Presentation: Synthony (second choice)
   
 # Class Apr 19
-  * Presentation: 
+  * Presentation: image_translator (first choice)
 
 # Class Apr 17
   * Presentation: MoonMan (only choice)
-  * Presentation: image_translator (first choice)
   
 # Class 31-35 (Apr 1,3,5,8,12)
   * Work on the final project
