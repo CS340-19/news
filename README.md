@@ -10,13 +10,13 @@
 # Class Apr 24
   * Presentation: CampusChat (second choice)
   * Presentation: EzOrdr (second choice)
+  * Presentation: image_translator (first choice)
  
 # Class Apr 22
   * Presentation: MachineLearningSquad (second choice)
   * Presentation: Synthony (second choice)
   
 # Class Apr 17
-  * Presentation: image_translator (first choice)
   * Presentation: MoonMan (only choice)
   
 # Class 31-35 (Apr 1,3,5,8,12)
