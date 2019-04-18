@@ -1,3 +1,5 @@
+# Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
+
 # Please open an issue for the preferred course project final presentation date 
   * Open an issue with the subject "*project* final presentation date"
   * Please include the preferred dates (three choices in order of preference)
