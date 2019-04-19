@@ -1,9 +1,7 @@
-# Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
+# Other matters
+   - Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
+   - What needs to go into [the final report: it is essentially the status report plus changes highlighted in red](https://github.com/CS340-19/lectures/blob/master/project_final_report.pdf) 
 
-# Please open an issue for the preferred course project final presentation date 
-  * Open an issue with the subject "*project* final presentation date"
-  * Please include the preferred dates (three choices in order of preference)
-  * Please use the news repo (this one) to open the issue
 
 # Class Apr 26
   * Presentation: TheGivers
