@@ -6,6 +6,7 @@
 # Class Apr 26
   * Presentation: TheGivers
   * Presentation: LinuxForKids
+  * Presentation: Personal Playlist
 
 # Class Apr 24
   * Presentation: CampusChat (second choice)
