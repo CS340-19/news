@@ -1,14 +1,33 @@
-## ATTENTION GRADUATING CS SENIORS (either spring or summer graduates)
+# Other matters
+   - Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
+   - What needs to go into [the final report: it is essentially the status report plus changes highlighted in red](https://github.com/CS340-19/lectures/blob/master/project_final_report.pdf) 
 
-The Tennessee Higher Education Commission (THEC) is requiring that the EECS department administer the ETS CS Major Field Exam to all graduating CS seniors (i.e., those graduating either this spring or this summer). You will need to take this exam on either Tuesday, April 2 from 3:30-5:30pm or Wednesday, April 3 from 5-7pm in MK 524. Here are some additional details:
 
-1) Please go to https://doodle.com/poll/37ufg87p7xqq8giy to indicate which date you plan to take the exam.
-2) We will be serving pizza so you will have something to eat.
-3) The exam is a multiple choice exam that covers all areas of CS. There is no need to study for the exam.
-4) The exam does not count against any of your grades but it is important to the department and university since it has affected university funding in the past (better performances leading to better funding).
-5) The site https://www.ets.org/mft/about/content/computer_science contains additional information about the exam if you want to find out more about it. 
+# Class Apr 26
+  * Presentation: TheGivers
+  * Presentation: LinuxForKids
+  * Presentation: Personal Playlist
 
-If you want more information about the exam or absolutely cannot make the two exam dates, please contact Professor Brad Vander Zanden (bvanderz@utk.edu).
+# Class Apr 24
+  * Presentation: CampusChat (second choice)
+  * Presentation: EzOrdr (second choice)
+  * Presentation: image_translator (first choice)
+ 
+# Class Apr 22
+  * Presentation: MachineLearningSquad (second choice)
+  * Presentation: Synthony (second choice)
+  
+# Class Apr 17
+  * Presentation: MoonMan (only choice)
+  
+# Class 31-35 (Apr 1,3,5,8,12)
+  * Work on the final project
+
+# Class 26-30 (Mar 13, 15, 25, 27, 29)
+  * Demo+Status reports are due
+  * [How to contribute to OSS](https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf)
+  * Evryone has an issue assigned: please have one issue per person:
+    breake into subtasks if needed!
 
 
 # Class 25 (Mar 11)
