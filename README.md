@@ -1,7 +1,8 @@
 # Other matters
    - Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
    - What needs to go into [the final report: it is essentially the status report plus changes highlighted in red](https://github.com/CS340-19/lectures/blob/master/project_final_report.pdf) 
-
+   - Correction on the OSS issue "Select the first task": the correct link is https://github.com/CS340-19/lectures/blob/master/HowToContributeToOSS.pdf
+the sentence "Section C: How to make your first contribution?" should read "From slide How to make your first contribution?"
 
 # Class Apr 26
   * Presentation: TheGivers
