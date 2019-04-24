@@ -4,26 +4,31 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
     - AaronJohnson2
     - Dakobrah
     - GrissomE
+    - SpencerHowell
     - YimingSun60
     - YuchengMaUTK
     - alnidu
     - antvegao8a
     - atutko2
+    - bkidgamer1
     - cmobley4
+    - dkennard3
     - dlee865
     - jball1997
     - lhenslee
+    - luke-parker
     - mickidymick
     - mwbutera
     - rhendz
     - spaulsteinberg
-    - syd-shelby
+    - toddallen97
     - twheaton9797
     - viktorZenkov
 
 |Repo|Issue|State|UpdatedAt|Assignee|Milestone Due|Labels|Title|
 |-|-|-|-|-|-|-|-|
-|CS340-19/TheGivers|30|open|2019-04-20T22:02:58Z|abbypro|2019-04-26T07:00:00Z||Make Powerpoint for Final Presentation
+|CS340-19/TheGivers|31|open|2019-04-22T19:44:13Z|abbypro|2019-04-26T07:00:00Z||Finish Gift List Page
+|CS340-19/TheGivers|30|open|2019-04-22T19:39:55Z|syd-shelby abbypro|2019-04-26T07:00:00Z||Make Powerpoint for Final Presentation
 |CS340-19/TheGivers|29|open|2019-04-19T23:28:19Z|anehls93|2019-04-26T07:00:00Z|,enhancement|Improve Scraper
 |CS340-19/TheGivers|26|open|2019-04-19T23:29:03Z|Deltaus|2019-04-26T07:00:00Z||Complete on ML algorithms
 |CS340-19/TheGivers|25|open|2019-04-19T23:29:17Z|eplank18|2019-04-26T07:00:00Z||Alter UI, add quiz, get basic profiles
@@ -38,15 +43,9 @@ or no deadline for the milestone, or the issue is not assigned to a milestone
 |CS340-19/PersonalPlaylist|6|open|2019-03-29T13:37:24Z||2019-04-04T07:00:00Z||Connect Slider with Python Algorithm
 |CS340-19/PersonalPlaylist|5|open|2019-03-29T13:37:41Z||2019-04-04T07:00:00Z||Implement Spotify Login
 |CS340-19/PersonalPlaylist|4|open|2019-03-29T13:37:56Z||2019-04-04T07:00:00Z||Implement Spotify Album Covers
-|CS340-19/Synthony|16|open|2019-03-27T17:47:13Z|bkidgamer1|2019-04-22T07:00:00Z|,BETA|Data Scrapper
-|CS340-19/Synthony|15|open|2019-03-29T17:28:14Z|dkennard3|2019-04-22T07:00:00Z|,enhancement|Implement Graphing
-|CS340-19/Synthony|14|open|2019-04-10T13:29:53Z|toddallen97 luke-parker bkidgamer1|2019-04-22T07:00:00Z|,enhancement,help wanted|Stylize PHP Pages
-|CS340-19/CampusGroupChat|13|open|2019-03-25T16:27:51Z||2019-03-15T07:00:00Z||Card feature for groupchats
-|CS340-19/CampusGroupChat|12|open|2019-03-29T01:12:33Z||2019-04-05T07:00:00Z||Add support for groupchats
-|CS340-19/CampusGroupChat|11|open|2019-03-25T16:26:33Z||2019-03-15T07:00:00Z||Implement Groupchat Creation
+|CS340-19/CampusGroupChat|16|open|2019-04-23T16:29:27Z|BrysonHowell|2019-04-05T07:00:00Z||UI Tweaks
+|CS340-19/CampusGroupChat|11|open|2019-04-23T16:28:47Z||2019-03-15T07:00:00Z||Implement Groupchat Creation
 |CS340-19/CampusGroupChat|10|open|2019-03-04T14:34:45Z|sunny2121|2019-03-15T07:00:00Z||Configure Firebase for iOS
-|CS340-19/CampusGroupChat|8|open|2019-03-04T14:34:12Z|SpencerHowell|2019-03-15T07:00:00Z||Chat Select Screen
-|CS340-19/CampusGroupChat|7|open|2019-03-29T01:12:01Z|BrysonHowell|2019-04-05T07:00:00Z||Location Services
 |CS340-19/MachineLearningSquad|15|open|2019-03-29T13:32:17Z|kobloo TannerFry Jalburn|2019-04-19T07:00:00Z||Make it do good. (Error Checking)
 |CS340-19/MachineLearningSquad|14|open|2019-03-29T13:32:38Z|kobloo TannerFry Jalburn|2019-04-19T07:00:00Z||Make it look clean. (Improve JavaScript implementation)
 |CS340-19/MachineLearningSquad|11|open|2019-03-01T14:44:01Z|kobloo|2019-03-22T07:00:00Z||Incorporate Text Classifier

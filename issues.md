@@ -24,7 +24,8 @@
 |CS340-19/MoonMan|3|closed|2019-02-08T14:33:41Z|mickidymick|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|2|closed|2019-02-11T14:14:31Z|dlee865|2019-02-15T08:00:00Z||Create the skeleton class frame for all needed classes.
 |CS340-19/MoonMan|1|closed|2019-02-01T14:15:47Z|mickidymick|None||Window & Ground
-|CS340-19/TheGivers|30|open|2019-04-20T22:02:58Z|abbypro|2019-04-26T07:00:00Z||Make Powerpoint for Final Presentation
+|CS340-19/TheGivers|31|open|2019-04-22T19:44:13Z|abbypro|2019-04-26T07:00:00Z||Finish Gift List Page
+|CS340-19/TheGivers|30|open|2019-04-22T19:39:55Z|syd-shelby abbypro|2019-04-26T07:00:00Z||Make Powerpoint for Final Presentation
 |CS340-19/TheGivers|29|open|2019-04-19T23:28:19Z|anehls93|2019-04-26T07:00:00Z|,enhancement|Improve Scraper
 |CS340-19/TheGivers|28|closed|2019-04-19T23:28:41Z|anehls93|2019-04-19T07:00:00Z||Finalize Initialization quiz
 |CS340-19/TheGivers|27|closed|2019-04-06T17:42:39Z||None||Password auth2
@@ -112,9 +113,9 @@
 |CS340-19/PersonalPlaylist|2|closed|2019-03-29T13:35:27Z|mwbutera twheaton9797|2019-02-22T08:00:00Z||Web Framework / Client Server (Research)
 |CS340-19/PersonalPlaylist|1|closed|2019-03-29T13:35:47Z|lhenslee cmobley4|2019-02-22T08:00:00Z||Spotify API Python Implementation (Research)
 |CS340-19/Synthony|17|closed|2019-04-10T13:27:40Z|luke-parker|None||Implement continuous integration
-|CS340-19/Synthony|16|open|2019-03-27T17:47:13Z|bkidgamer1|2019-04-22T07:00:00Z|,BETA|Data Scrapper
-|CS340-19/Synthony|15|open|2019-03-29T17:28:14Z|dkennard3|2019-04-22T07:00:00Z|,enhancement|Implement Graphing
-|CS340-19/Synthony|14|open|2019-04-10T13:29:53Z|toddallen97 luke-parker bkidgamer1|2019-04-22T07:00:00Z|,enhancement,help wanted|Stylize PHP Pages
+|CS340-19/Synthony|16|closed|2019-04-22T21:47:38Z|bkidgamer1|2019-04-22T07:00:00Z|,BETA|Data Scrapper
+|CS340-19/Synthony|15|closed|2019-04-22T21:47:38Z|dkennard3|2019-04-22T07:00:00Z|,enhancement|Implement Graphing
+|CS340-19/Synthony|14|closed|2019-04-22T21:47:38Z|toddallen97 luke-parker bkidgamer1|2019-04-22T07:00:00Z|,enhancement,help wanted|Stylize PHP Pages
 |CS340-19/Synthony|13|closed|2019-04-08T13:44:46Z|luke-parker|2019-03-29T07:00:00Z|,enhancement|Create php files for main pages
 |CS340-19/Synthony|12|closed|2019-03-25T13:53:45Z|luke-parker|None|,enhancement|Create data scraping script
 |CS340-19/Synthony|11|closed|2019-03-27T17:21:48Z|bkidgamer1|2019-03-11T07:00:00Z|,enhancement|Database Design
@@ -128,15 +129,18 @@
 |CS340-19/Synthony|3|closed|2019-02-08T14:38:01Z||None||Add iPlug2 framework
 |CS340-19/Synthony|2|closed|2019-02-15T14:40:48Z|toddallen97|2019-02-15T08:00:00Z|,enhancement|Investigate the iPlug2 Framework
 |CS340-19/Synthony|1|closed|2019-02-22T14:15:05Z|luke-parker|2019-02-15T08:00:00Z|,enhancement|Setup the Cloud VM with the adequate hardware 
+|CS340-19/CampusGroupChat|18|closed|2019-04-24T00:25:59Z||None||Geo
+|CS340-19/CampusGroupChat|17|closed|2019-04-24T00:24:49Z||None||Geo
+|CS340-19/CampusGroupChat|16|open|2019-04-23T16:29:27Z|BrysonHowell|2019-04-05T07:00:00Z||UI Tweaks
 |CS340-19/CampusGroupChat|15|closed|2019-04-15T01:35:25Z|SpencerHowell|None|,bug|Message screen crashes when invalid message read
 |CS340-19/CampusGroupChat|14|closed|2019-04-01T13:27:14Z||None||Add IOS functionality
-|CS340-19/CampusGroupChat|13|open|2019-03-25T16:27:51Z||2019-03-15T07:00:00Z||Card feature for groupchats
-|CS340-19/CampusGroupChat|12|open|2019-03-29T01:12:33Z||2019-04-05T07:00:00Z||Add support for groupchats
-|CS340-19/CampusGroupChat|11|open|2019-03-25T16:26:33Z||2019-03-15T07:00:00Z||Implement Groupchat Creation
+|CS340-19/CampusGroupChat|13|closed|2019-04-23T16:27:30Z|SpencerHowell|2019-03-15T07:00:00Z||Card feature for groupchats
+|CS340-19/CampusGroupChat|12|closed|2019-04-23T16:27:50Z|SpencerHowell|2019-04-05T07:00:00Z||Add support for groupchats
+|CS340-19/CampusGroupChat|11|open|2019-04-23T16:28:47Z||2019-03-15T07:00:00Z||Implement Groupchat Creation
 |CS340-19/CampusGroupChat|10|open|2019-03-04T14:34:45Z|sunny2121|2019-03-15T07:00:00Z||Configure Firebase for iOS
 |CS340-19/CampusGroupChat|9|closed|2019-03-04T14:32:34Z|SpencerHowell|2019-03-02T08:00:00Z||Configure Firebase for Android
-|CS340-19/CampusGroupChat|8|open|2019-03-04T14:34:12Z|SpencerHowell|2019-03-15T07:00:00Z||Chat Select Screen
-|CS340-19/CampusGroupChat|7|open|2019-03-29T01:12:01Z|BrysonHowell|2019-04-05T07:00:00Z||Location Services
+|CS340-19/CampusGroupChat|8|closed|2019-04-23T16:28:14Z|SpencerHowell|2019-03-15T07:00:00Z||Chat Select Screen
+|CS340-19/CampusGroupChat|7|closed|2019-04-24T00:41:08Z|rhendz BrysonHowell|2019-04-05T07:00:00Z||Location Services
 |CS340-19/CampusGroupChat|6|closed|2019-03-25T13:59:10Z|rhendz SpencerHowell|2019-03-15T07:00:00Z||Implement Firebase Messaging
 |CS340-19/CampusGroupChat|5|closed|2019-02-20T14:15:08Z|sunny2121|None||iOS Testing
 |CS340-19/CampusGroupChat|4|closed|2019-03-04T14:35:24Z|BrysonHowell|2019-02-15T08:00:00Z||Android Testing
