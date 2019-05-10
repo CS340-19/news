@@ -1,3 +1,7 @@
+# Final grades have been posted
+  - Assignments 25%, Final Project 50%, Attendance 25% as per syllabus below
+  - GCP assignment is 15% of the total, remaining eight assignments of equal weight
+  
 # Other matters
    - Class evaluation  https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Monday, April 29.
    - What needs to go into [the final report: it is essentially the status report plus changes highlighted in red](https://github.com/CS340-19/lectures/blob/master/project_final_report.pdf) 
